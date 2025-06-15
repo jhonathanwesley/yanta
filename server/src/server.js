@@ -15,5 +15,3 @@ app.use("/api/notes", notesRoutes);
 app.listen(PORT, () => {
     console.log("Server started on PORT:", PORT);
 });
-
-REMOVED
