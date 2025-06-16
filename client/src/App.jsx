@@ -7,8 +7,7 @@ import NoteDetailPage from "./pages/NoteDetailPage";
 
 const App = () => {
   return (
-    <div>
-      <button className="btn btn-outline">Click me</button>
+    <div data-theme="synthwave">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/create" element={<CreatePage />} />
