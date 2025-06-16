@@ -13,9 +13,12 @@
 
 - `Redis` on [Upstash](https://upstash.com/)
 
-> Frontend tool:
+> Frontend tools:
 
 - [Vite](https://vite.dev/)
+- [Tailwind](https://tailwindcss.com/)
+
+---
 
 ## Environment
 
@@ -38,6 +41,8 @@ $ npm install
 $ npm run dev
 $ npm i react-router
 $ npm i react-hot-toast
+$ npm install -D tailwindcss@3 postcss autoprefixer
+$ npx tailwindcss init -p
 ```
 
 ---
