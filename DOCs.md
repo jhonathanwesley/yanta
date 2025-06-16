@@ -31,6 +31,7 @@ $ npm install nodemon -D
 $ npm i mongoose@8.14.3
 $ npm i dotenv@16.5.0
 $ npm i @upstash/ratelimit@2.0.5 @upstash/redis@1.34.9
+$ npm i cors@2.8.5
 ```
 
 > Frontend
@@ -47,6 +48,12 @@ $ npx tailwindcss init -p
 $ npm i daisyui@4.12.24 -D
 $ npm i lucide-react
 $ npm i axios
+```
+
+### DEPENDENCIES
+
+```json
+
 ```
 
 ---
