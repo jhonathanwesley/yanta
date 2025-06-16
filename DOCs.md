@@ -17,6 +17,7 @@
 
 - [Vite](https://vite.dev/)
 - [Tailwind](https://tailwindcss.com/)
+- [Daisy UI](https://daisyui.com/)
 
 ---
 
@@ -43,6 +44,7 @@ $ npm i react-router
 $ npm i react-hot-toast
 $ npm install -D tailwindcss@3 postcss autoprefixer
 $ npx tailwindcss init -p
+$ npm i daisyui@4.12.24 -D
 ```
 
 ---
