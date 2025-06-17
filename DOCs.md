@@ -18,6 +18,7 @@
 - [Vite](https://vite.dev/)
 - [Tailwind](https://tailwindcss.com/)
 - [Daisy UI](https://daisyui.com/)
+- [ibelick](https://bg.ibelick.com/)
 
 ---
 
