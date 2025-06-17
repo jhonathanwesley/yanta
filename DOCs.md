@@ -54,7 +54,10 @@ $ npm i axios
 ### DEPENDENCIES
 
 ```json
-
+{
+    "client":"./client/package-lock.json",
+    "server":"./server/package-lock.json"
+}
 ```
 
 ---
